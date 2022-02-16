@@ -8,7 +8,7 @@
 JavaScript, TypeScript, Python, Java 
 
 💻 Frameworks :   
-Angular 7, Node.js, Express.js, Jasmine, Karma
+Angular, Node.js, Express.js, Jasmine, Karma, Cypress
  
 💾 Database :   
 MongoDB, MySQL

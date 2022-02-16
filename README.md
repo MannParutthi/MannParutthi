@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hello World 👋, I am Manan Paruthi
+
+🖥️ Programming Languages
+JavaScript, TypeScript, Python, Java 
+
+💻 Frameworks
+Angular 7, Node.js, Express.js, Jasmine, Karma
+ 
+💾 Database
+MongoDB, MySQL
+
+🛠️ Tools 
+Visual Studio Code, GIT (Version Control), JIRA, Jenkins, Postman
+  
+
+📫 Reach me on
+ LinkedIn: https://www.linkedin.com/in/manan-paruthi/
+ Mail: manan.paruthi@gmail.com
+ LeetCode: https://leetcode.com/manan-paruthi/
+
 
 <!--
 **MannParutthi/MannParutthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,22 +1,26 @@
-### Hello World 👋, I am Manan Paruthi
+### Hello World 👋, I am Manan Paruthi 
+### Computer Science Co-op Graduate @ Concordia University, Montréal, Canada | Ex - Infosys , Siemens
 
-🖥️ Programming Languages
+#### Self-motivated programmer highly effective at designing and developing solutions with professional experience, who is looking forward to brainstorming projects
+
+
+🖥️ Programming Languages :   
 JavaScript, TypeScript, Python, Java 
 
-💻 Frameworks
+💻 Frameworks :   
 Angular 7, Node.js, Express.js, Jasmine, Karma
  
-💾 Database
+💾 Database :   
 MongoDB, MySQL
 
-🛠️ Tools 
+🛠️ Tools :   
 Visual Studio Code, GIT (Version Control), JIRA, Jenkins, Postman
   
 
-📫 Reach me on
- LinkedIn: https://www.linkedin.com/in/manan-paruthi/
- Mail: manan.paruthi@gmail.com
- LeetCode: https://leetcode.com/manan-paruthi/
+📫 Reach me on :   
+ LinkedIn: https://www.linkedin.com/in/manan-paruthi/  
+ Email: manan.paruthi@gmail.com  
+ LeetCode: https://leetcode.com/manan-paruthi/  
 
 
 <!--

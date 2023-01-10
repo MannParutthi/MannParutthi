@@ -1,5 +1,5 @@
 ### Hello World 👋, I am Manan Paruthi 
-### Computer Science Co-op Graduate @ Concordia University, Montréal, Canada | Ex - Infosys , Siemens
+### Computer Science Grad @ Concordia University, Montréal, Canada | Ex - Infosys , Siemens, Capital One, SAP
 
 #### Self-motivated programmer highly effective at designing and developing solutions with professional experience, who is looking forward to brainstorming projects
 

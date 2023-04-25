@@ -1,20 +1,26 @@
 ### Hello World 👋, I am Manan Paruthi 
-### Computer Science Grad @ Concordia University, Montréal, Canada | Ex - Infosys , Siemens, Capital One, SAP
+### Computer Science Grad @ Concordia University, Montréal, Canada | Ex - Infosys , Siemens, Capital One, SAP, Microsoft + Nuance
 
 #### Self-motivated programmer highly effective at designing and developing solutions with professional experience, who is looking forward to brainstorming projects
 
 
 🖥️ Programming Languages :   
-JavaScript, TypeScript, Python, Java 
+JavaScript, TypeScript, Python, Java, Springboot 
 
 💻 Frameworks :   
-Angular, Node.js, Express.js, Jasmine, Karma, Cypress
+Angular, Node.js, Express.js, Jasmine, Karma, Cypress, Mockito, Cucumber
  
 💾 Database :   
 MongoDB, MySQL
 
+☁️ Cloud :
+Amazon Web Services (AWS), Azure
+
 🛠️ Tools :   
-Visual Studio Code, GIT (Version Control), JIRA, Jenkins, Postman
+GIT / GitHub (Version Control), JIRA, Jenkins, Postman, Confluence, Docker, Kubernetes, ELK Stack (Elasticsearch, Logstash, Kibana)
+
+📟 IDEs :
+Visual Studio Code, IntelliJ
   
 
 📫 Reach me on :   

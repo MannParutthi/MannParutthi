@@ -1,5 +1,5 @@
 ### Hello World 👋, I am Manan Paruthi 
-### Computer Science Grad @ Concordia University, Montréal, Canada | Ex - Infosys , Siemens, Capital One, SAP, Microsoft + Nuance
+### Computer Science Grad @ Concordia University, Montréal, Canada | Ex - Infosys , Siemens, Capital One, SAP, Microsoft + Nuance | Software Development Engineer | Full Stack Developer | Frontend Developer | Backend Developer
 
 #### Self-motivated programmer highly effective at designing and developing solutions with professional experience, who is looking forward to brainstorming projects
 
@@ -13,13 +13,13 @@ Angular, Node.js, Express.js, Jasmine, Karma, Cypress, Mockito, Cucumber
 💾 Database :   
 MongoDB, MySQL
 
-☁️ Cloud :
+☁️ Cloud :   
 Amazon Web Services (AWS), Azure
 
 🛠️ Tools :   
 GIT / GitHub (Version Control), JIRA, Jenkins, Postman, Confluence, Docker, Kubernetes, ELK Stack (Elasticsearch, Logstash, Kibana)
 
-📟 IDEs :
+📟 IDEs :   
 Visual Studio Code, IntelliJ
   
 

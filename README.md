@@ -22,7 +22,7 @@ GIT / GitHub (Version Control), JIRA, Jenkins, Postman, Confluence, Docker, Kube
 📟 IDEs :   
 Visual Studio Code, IntelliJ
 
-👨‍🎓 Software Engineering:
+👨‍🎓 Software Engineering:   
 Problem Solving, Data Structures & Algorithms, Debugging, Design Patterns, Code Optimization
   
 

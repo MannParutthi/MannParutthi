@@ -31,6 +31,7 @@ Problem Solving, Data Structures & Algorithms, Debugging, Design Patterns, Code 
  Email: manan.paruthi@gmail.com  
  LeetCode: https://leetcode.com/manan-paruthi/  
 
+![Profile views](https://gpvc.arturio.dev/[MannParutthi])
 
 <!--
 **MannParutthi/MannParutthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
